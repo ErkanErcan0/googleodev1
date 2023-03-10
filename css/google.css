@@ -1,0 +1,30 @@
+.pm {
+    margin: 0px;
+}
+
+.fs-13 {
+    font-size: 13px;
+}
+
+.c1 {
+    background-color: #EEEEEE;
+}
+.c2 {
+    background-color: #7EE5DA;
+}
+.c3 {
+    background-color: #70CCC2 ;
+}
+.c4 {
+    background-color: #62B3AA;
+}
+
+table {
+    
+    width: 100%;
+    text-align: center;
+    padding: 0% 5% 0% 5%;
+    
+    
+       
+}
